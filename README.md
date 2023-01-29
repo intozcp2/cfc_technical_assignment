@@ -1,10 +1,10 @@
 # cfc_technical_assignment
 # Requirements
-On window:
+On Window:
   * Python ^3.6
   * pip ^22.3
 
-On mac:
+On Mac:
   * Python3
   * pip3
 
@@ -12,9 +12,13 @@ On mac:
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
 
+On Window:
 ```bash
 pip install -r requirements.txt
-
+```
+On Mac:
+```bash
+pip3 install -r requirements.txt
 ```
 
 ## Usage
@@ -27,8 +31,13 @@ import re
 ```
 
 ## Run
+On Window:
 ```bash
 python main.py
+```
+On Mac:
+```bash
+python3 main.py
 ```
 ## Output
 terminal output
