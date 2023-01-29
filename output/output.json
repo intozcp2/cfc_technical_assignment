@@ -1,0 +1,3690 @@
+[
+  {
+    "type": "img",
+    "resource": "/images/flags/hk.png"
+  },
+  {
+    "type": "img",
+    "resource": "/images/flags/gb.svg"
+  },
+  {
+    "type": "img",
+    "resource": "/images/flags/us.svg"
+  },
+  {
+    "type": "img",
+    "resource": "/images/flags/ca.svg"
+  },
+  {
+    "type": "img",
+    "resource": "/images/flags/au.svg"
+  },
+  {
+    "type": "img",
+    "resource": "/images/Positive_logo_for_Nav_banner.svg"
+  },
+  {
+    "type": "img",
+    "resource": "/images/flags/hk.png"
+  },
+  {
+    "type": "img",
+    "resource": "/images/flags/gb.png"
+  },
+  {
+    "type": "img",
+    "resource": "/images/flags/us.png"
+  },
+  {
+    "type": "img",
+    "resource": "/images/flags/ca.png"
+  },
+  {
+    "type": "img",
+    "resource": "/images/flags/au.png"
+  },
+  {
+    "type": "img",
+    "resource": "/images/awards-ratings-module__graphic.svg"
+  },
+  {
+    "type": "img",
+    "resource": "/media/3952/90percent-stat-graphic.png"
+  },
+  {
+    "type": "script",
+    "resource": "//js.hsforms.net/forms/v2.js"
+  },
+  {
+    "type": "script",
+    "resource": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+  },
+  {
+    "type": "script",
+    "resource": "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"
+  },
+  {
+    "type": "script",
+    "resource": "/js/dist/gsap-bundle.js?v=20221214.1?v=20221214.1"
+  },
+  {
+    "type": "script",
+    "resource": "/js/dist/bundle.js?v=20221214.1"
+  },
+  {
+    "type": "script",
+    "resource": "//js.hs-scripts.com/6072523.js"
+  },
+  {
+    "type": "script",
+    "resource": "//js.hsforms.net/forms/v2.js"
+  },
+  {
+    "type": "script",
+    "resource": "https://www.google.com/recaptcha/api.js?render=6LemiyEaAAAAAGwb4nR8oX38fxyM36xjIGbwz6d4"
+  },
+  {
+    "type": "link",
+    "resource": "https://www.cfcunderwriting.com/en-gb/"
+  },
+  {
+    "type": "link",
+    "resource": "https://www.cfcunderwriting.com/en-gb/"
+  },
+  {
+    "type": "link",
+    "resource": "https://www.cfcunderwriting.com/en-us/"
+  },
+  {
+    "type": "link",
+    "resource": "https://www.cfcunderwriting.com/en-ca/"
+  },
+  {
+    "type": "link",
+    "resource": "https://www.cfcunderwriting.com/en-au/"
+  },
+  {
+    "type": "link",
+    "resource": "https://www.cfcunderwriting.com/en-gb/"
+  },
+  {
+    "type": "link",
+    "resource": "https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700"
+  },
+  {
+    "type": "link",
+    "resource": "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css"
+  },
+  {
+    "type": "link",
+    "resource": "/css/dist/bundle.css?v=20221214.1"
+  },
+  {
+    "type": "link",
+    "resource": "/apple-touch-icon.png"
+  },
+  {
+    "type": "link",
+    "resource": "/favicon-32x32.png"
+  },
+  {
+    "type": "link",
+    "resource": "/favicon-16x16.png"
+  },
+  {
+    "type": "link",
+    "resource": "/site.webmanifest"
+  },
+  {
+    "type": "link",
+    "resource": "/safari-pinned-tab.svg"
+  },
+  {
+    "type": "iframe",
+    "resource": "https://www.googletagmanager.com/ns.html?id=GTM-NGGN5FB"
+  },
+  {
+    "word": "notify",
+    "frequency": 2
+  },
+  {
+    "word": "a",
+    "frequency": 33
+  },
+  {
+    "word": "claim",
+    "frequency": 7
+  },
+  {
+    "word": "contact",
+    "frequency": 11
+  },
+  {
+    "word": "careers",
+    "frequency": 4
+  },
+  {
+    "word": "uk",
+    "frequency": 5
+  },
+  {
+    "word": "us",
+    "frequency": 29
+  },
+  {
+    "word": "canada",
+    "frequency": 4
+  },
+  {
+    "word": "australia",
+    "frequency": 4
+  },
+  {
+    "word": "hong",
+    "frequency": 3
+  },
+  {
+    "word": "kong",
+    "frequency": 3
+  },
+  {
+    "word": "platform",
+    "frequency": 1
+  },
+  {
+    "word": "products",
+    "frequency": 14
+  },
+  {
+    "word": "class",
+    "frequency": 2
+  },
+  {
+    "word": "cyber",
+    "frequency": 19
+  },
+  {
+    "word": "private",
+    "frequency": 1
+  },
+  {
+    "word": "enterprise",
+    "frequency": 1
+  },
+  {
+    "word": "large",
+    "frequency": 1
+  },
+  {
+    "word": "corporate",
+    "frequency": 1
+  },
+  {
+    "word": "excess",
+    "frequency": 3
+  },
+  {
+    "word": "environmental",
+    "frequency": 2
+  },
+  {
+    "word": "liability",
+    "frequency": 14
+  },
+  {
+    "word": "pollution",
+    "frequency": 1
+  },
+  {
+    "word": "professional",
+    "frequency": 10
+  },
+  {
+    "word": "general",
+    "frequency": 2
+  },
+  {
+    "word": "and",
+    "frequency": 57
+  },
+  {
+    "word": "intellectual",
+    "frequency": 1
+  },
+  {
+    "word": "property",
+    "frequency": 4
+  },
+  {
+    "word": "infringement",
+    "frequency": 1
+  },
+  {
+    "word": "defense",
+    "frequency": 1
+  },
+  {
+    "word": "pursuit",
+    "frequency": 1
+  },
+  {
+    "word": "kidnap",
+    "frequency": 3
+  },
+  {
+    "word": "ransom",
+    "frequency": 3
+  },
+  {
+    "word": "marine",
+    "frequency": 1
+  },
+  {
+    "word": "piracy",
+    "frequency": 1
+  },
+  {
+    "word": "management",
+    "frequency": 2
+  },
+  {
+    "word": "directors",
+    "frequency": 1
+  },
+  {
+    "word": "officers",
+    "frequency": 1
+  },
+  {
+    "word": "securities",
+    "frequency": 1
+  },
+  {
+    "word": "offerings",
+    "frequency": 1
+  },
+  {
+    "word": "nonprofits",
+    "frequency": 1
+  },
+  {
+    "word": "medical",
+    "frequency": 3
+  },
+  {
+    "word": "malpractice",
+    "frequency": 2
+  },
+  {
+    "word": "healthcare",
+    "frequency": 8
+  },
+  {
+    "word": "professionals",
+    "frequency": 3
+  },
+  {
+    "word": "surgeons",
+    "frequency": 1
+  },
+  {
+    "word": "dentists",
+    "frequency": 1
+  },
+  {
+    "word": "doctors",
+    "frequency": 1
+  },
+  {
+    "word": "product",
+    "frequency": 5
+  },
+  {
+    "word": "recall",
+    "frequency": 2
+  },
+  {
+    "word": "food",
+    "frequency": 1
+  },
+  {
+    "word": "beverage",
+    "frequency": 1
+  },
+  {
+    "word": "consumer",
+    "frequency": 1
+  },
+  {
+    "word": "goods",
+    "frequency": 1
+  },
+  {
+    "word": "automotive",
+    "frequency": 1
+  },
+  {
+    "word": "engineers",
+    "frequency": 1
+  },
+  {
+    "word": "services",
+    "frequency": 18
+  },
+  {
+    "word": "recruitment",
+    "frequency": 2
+  },
+  {
+    "word": "casualty",
+    "frequency": 2
+  },
+  {
+    "word": "terrorism",
+    "frequency": 3
+  },
+  {
+    "word": "sabotage",
+    "frequency": 1
+  },
+  {
+    "word": "active",
+    "frequency": 1
+  },
+  {
+    "word": "assailant",
+    "frequency": 1
+  },
+  {
+    "word": "transaction",
+    "frequency": 2
+  },
+  {
+    "word": "representation",
+    "frequency": 1
+  },
+  {
+    "word": "warranty",
+    "frequency": 1
+  },
+  {
+    "word": "insurance",
+    "frequency": 25
+  },
+  {
+    "word": "industry",
+    "frequency": 3
+  },
+  {
+    "word": "financial",
+    "frequency": 2
+  },
+  {
+    "word": "institutions",
+    "frequency": 2
+  },
+  {
+    "word": "investment",
+    "frequency": 1
+  },
+  {
+    "word": "managers",
+    "frequency": 1
+  },
+  {
+    "word": "indemnity",
+    "frequency": 1
+  },
+  {
+    "word": "fintech",
+    "frequency": 3
+  },
+  {
+    "word": "for",
+    "frequency": 45
+  },
+  {
+    "word": "businesses",
+    "frequency": 1
+  },
+  {
+    "word": "digital",
+    "frequency": 1
+  },
+  {
+    "word": "ehealth",
+    "frequency": 3
+  },
+  {
+    "word": "life",
+    "frequency": 2
+  },
+  {
+    "word": "science",
+    "frequency": 2
+  },
+  {
+    "word": "rd",
+    "frequency": 1
+  },
+  {
+    "word": "devices",
+    "frequency": 1
+  },
+  {
+    "word": "supplements",
+    "frequency": 1
+  },
+  {
+    "word": "manufacturing",
+    "frequency": 3
+  },
+  {
+    "word": "policies",
+    "frequency": 2
+  },
+  {
+    "word": "manufacturers",
+    "frequency": 2
+  },
+  {
+    "word": "media",
+    "frequency": 4
+  },
+  {
+    "word": "entertainment",
+    "frequency": 2
+  },
+  {
+    "word": "licensing",
+    "frequency": 1
+  },
+  {
+    "word": "agreements",
+    "frequency": 1
+  },
+  {
+    "word": "technology",
+    "frequency": 3
+  },
+  {
+    "word": "companies",
+    "frequency": 2
+  },
+  {
+    "word": "social",
+    "frequency": 1
+  },
+  {
+    "word": "platforms",
+    "frequency": 1
+  },
+  {
+    "word": "all",
+    "frequency": 2
+  },
+  {
+    "word": "new",
+    "frequency": 4
+  },
+  {
+    "word": "to",
+    "frequency": 118
+  },
+  {
+    "word": "made",
+    "frequency": 3
+  },
+  {
+    "word": "simple",
+    "frequency": 1
+  },
+  {
+    "word": "our",
+    "frequency": 61
+  },
+  {
+    "word": "awardwinning",
+    "frequency": 1
+  },
+  {
+    "word": "solutions",
+    "frequency": 1
+  },
+  {
+    "word": "cfc",
+    "frequency": 12
+  },
+  {
+    "word": "response",
+    "frequency": 2
+  },
+  {
+    "word": "free",
+    "frequency": 1
+  },
+  {
+    "word": "247",
+    "frequency": 1
+  },
+  {
+    "word": "access",
+    "frequency": 3
+  },
+  {
+    "word": "security",
+    "frequency": 3
+  },
+  {
+    "word": "experts",
+    "frequency": 1
+  },
+  {
+    "word": "tools",
+    "frequency": 1
+  },
+  {
+    "word": "ransomware",
+    "frequency": 1
+  },
+  {
+    "word": "calculator",
+    "frequency": 1
+  },
+  {
+    "word": "calculate",
+    "frequency": 1
+  },
+  {
+    "word": "the",
+    "frequency": 67
+  },
+  {
+    "word": "cost",
+    "frequency": 1
+  },
+  {
+    "word": "of",
+    "frequency": 59
+  },
+  {
+    "word": "an",
+    "frequency": 9
+  },
+  {
+    "word": "attack",
+    "frequency": 1
+  },
+  {
+    "word": "app",
+    "frequency": 2
+  },
+  {
+    "word": "mobile",
+    "frequency": 2
+  },
+  {
+    "word": "industries",
+    "frequency": 1
+  },
+  {
+    "word": "providers",
+    "frequency": 4
+  },
+  {
+    "word": "retail",
+    "frequency": 1
+  },
+  {
+    "word": "retailers",
+    "frequency": 1
+  },
+  {
+    "word": "construction",
+    "frequency": 2
+  },
+  {
+    "word": "claims",
+    "frequency": 2
+  },
+  {
+    "word": "resources",
+    "frequency": 2
+  },
+  {
+    "word": "featured",
+    "frequency": 2
+  },
+  {
+    "word": "guides",
+    "frequency": 3
+  },
+  {
+    "word": "future",
+    "frequency": 1
+  },
+  {
+    "word": "16",
+    "frequency": 1
+  },
+  {
+    "word": "november",
+    "frequency": 1
+  },
+  {
+    "word": "2022",
+    "frequency": 1
+  },
+  {
+    "word": "knowledge",
+    "frequency": 1
+  },
+  {
+    "word": "articles",
+    "frequency": 2
+  },
+  {
+    "word": "insights",
+    "frequency": 1
+  },
+  {
+    "word": "tips",
+    "frequency": 1
+  },
+  {
+    "word": "best",
+    "frequency": 1
+  },
+  {
+    "word": "practices",
+    "frequency": 1
+  },
+  {
+    "word": "case",
+    "frequency": 3
+  },
+  {
+    "word": "studies",
+    "frequency": 2
+  },
+  {
+    "word": "real",
+    "frequency": 1
+  },
+  {
+    "word": "customer",
+    "frequency": 3
+  },
+  {
+    "word": "events",
+    "frequency": 3
+  },
+  {
+    "word": "meet",
+    "frequency": 2
+  },
+  {
+    "word": "up",
+    "frequency": 3
+  },
+  {
+    "word": "inperson",
+    "frequency": 1
+  },
+  {
+    "word": "or",
+    "frequency": 51
+  },
+  {
+    "word": "online",
+    "frequency": 5
+  },
+  {
+    "word": "news",
+    "frequency": 5
+  },
+  {
+    "word": "latest",
+    "frequency": 2
+  },
+  {
+    "word": "announcements",
+    "frequency": 2
+  },
+  {
+    "word": "how",
+    "frequency": 4
+  },
+  {
+    "word": "sell",
+    "frequency": 1
+  },
+  {
+    "word": "popular",
+    "frequency": 1
+  },
+  {
+    "word": "webinars",
+    "frequency": 2
+  },
+  {
+    "word": "learn",
+    "frequency": 2
+  },
+  {
+    "word": "from",
+    "frequency": 8
+  },
+  {
+    "word": "wherever",
+    "frequency": 1
+  },
+  {
+    "word": "you",
+    "frequency": 69
+  },
+  {
+    "word": "are",
+    "frequency": 15
+  },
+  {
+    "word": "company",
+    "frequency": 6
+  },
+  {
+    "word": "award",
+    "frequency": 1
+  },
+  {
+    "word": "business",
+    "frequency": 6
+  },
+  {
+    "word": "names",
+    "frequency": 2
+  },
+  {
+    "word": "top",
+    "frequency": 1
+  },
+  {
+    "word": "workplace",
+    "frequency": 1
+  },
+  {
+    "word": "about",
+    "frequency": 10
+  },
+  {
+    "word": "more",
+    "frequency": 6
+  },
+  {
+    "word": "team",
+    "frequency": 3
+  },
+  {
+    "word": "senior",
+    "frequency": 1
+  },
+  {
+    "word": "leadership",
+    "frequency": 1
+  },
+  {
+    "word": "awards",
+    "frequency": 1
+  },
+  {
+    "word": "recognition",
+    "frequency": 1
+  },
+  {
+    "word": "ready",
+    "frequency": 1
+  },
+  {
+    "word": "join",
+    "frequency": 1
+  },
+  {
+    "word": "responsibility",
+    "frequency": 1
+  },
+  {
+    "word": "commitment",
+    "frequency": 1
+  },
+  {
+    "word": "esg",
+    "frequency": 1
+  },
+  {
+    "word": "get",
+    "frequency": 4
+  },
+  {
+    "word": "in",
+    "frequency": 32
+  },
+  {
+    "word": "touch",
+    "frequency": 2
+  },
+  {
+    "word": "governance",
+    "frequency": 3
+  },
+  {
+    "word": "fair",
+    "frequency": 1
+  },
+  {
+    "word": "value",
+    "frequency": 1
+  },
+  {
+    "word": "assessments",
+    "frequency": 1
+  },
+  {
+    "word": "fvas",
+    "frequency": 1
+  },
+  {
+    "word": "home",
+    "frequency": 1
+  },
+  {
+    "word": "privacy",
+    "frequency": 10
+  },
+  {
+    "word": "policy",
+    "frequency": 11
+  },
+  {
+    "word": "1",
+    "frequency": 1
+  },
+  {
+    "word": "approach",
+    "frequency": 1
+  },
+  {
+    "word": "11",
+    "frequency": 1
+  },
+  {
+    "word": "this",
+    "frequency": 11
+  },
+  {
+    "word": "sets",
+    "frequency": 1
+  },
+  {
+    "word": "out",
+    "frequency": 6
+  },
+  {
+    "word": "we",
+    "frequency": 46
+  },
+  {
+    "word": "underwriting",
+    "frequency": 5
+  },
+  {
+    "word": "limited",
+    "frequency": 1
+  },
+  {
+    "word": "registered",
+    "frequency": 1
+  },
+  {
+    "word": "number",
+    "frequency": 2
+  },
+  {
+    "word": "03302887",
+    "frequency": 1
+  },
+  {
+    "word": "headquartered",
+    "frequency": 1
+  },
+  {
+    "word": "at",
+    "frequency": 6
+  },
+  {
+    "word": "second",
+    "frequency": 1
+  },
+  {
+    "word": "floor",
+    "frequency": 1
+  },
+  {
+    "word": "85",
+    "frequency": 1
+  },
+  {
+    "word": "gracechurch",
+    "frequency": 1
+  },
+  {
+    "word": "street",
+    "frequency": 1
+  },
+  {
+    "word": "london",
+    "frequency": 1
+  },
+  {
+    "word": "ec3v",
+    "frequency": 1
+  },
+  {
+    "word": "0aa",
+    "frequency": 1
+  },
+  {
+    "word": "any",
+    "frequency": 17
+  },
+  {
+    "word": "subsidiaries",
+    "frequency": 2
+  },
+  {
+    "word": "holding",
+    "frequency": 1
+  },
+  {
+    "word": "together",
+    "frequency": 1
+  },
+  {
+    "word": "referred",
+    "frequency": 1
+  },
+  {
+    "word": "as",
+    "frequency": 13
+  },
+  {
+    "word": "process",
+    "frequency": 6
+  },
+  {
+    "word": "personal",
+    "frequency": 32
+  },
+  {
+    "word": "data",
+    "frequency": 48
+  },
+  {
+    "word": "customers",
+    "frequency": 3
+  },
+  {
+    "word": "brokers",
+    "frequency": 1
+  },
+  {
+    "word": "website",
+    "frequency": 18
+  },
+  {
+    "word": "visitors",
+    "frequency": 4
+  },
+  {
+    "word": "european",
+    "frequency": 1
+  },
+  {
+    "word": "union",
+    "frequency": 1
+  },
+  {
+    "word": "users",
+    "frequency": 3
+  },
+  {
+    "word": "12",
+    "frequency": 1
+  },
+  {
+    "word": "if",
+    "frequency": 9
+  },
+  {
+    "word": "have",
+    "frequency": 15
+  },
+  {
+    "word": "questions",
+    "frequency": 2
+  },
+  {
+    "word": "please",
+    "frequency": 8
+  },
+  {
+    "word": "protection",
+    "frequency": 6
+  },
+  {
+    "word": "officer",
+    "frequency": 3
+  },
+  {
+    "word": "dpo",
+    "frequency": 1
+  },
+  {
+    "word": "by",
+    "frequency": 14
+  },
+  {
+    "word": "clicking",
+    "frequency": 1
+  },
+  {
+    "word": "here",
+    "frequency": 3
+  },
+  {
+    "word": "2",
+    "frequency": 1
+  },
+  {
+    "word": "what",
+    "frequency": 1
+  },
+  {
+    "word": "information",
+    "frequency": 35
+  },
+  {
+    "word": "do",
+    "frequency": 6
+  },
+  {
+    "word": "collect",
+    "frequency": 11
+  },
+  {
+    "word": "21",
+    "frequency": 1
+  },
+  {
+    "word": "will",
+    "frequency": 11
+  },
+  {
+    "word": "when",
+    "frequency": 3
+  },
+  {
+    "word": "obtain",
+    "frequency": 1
+  },
+  {
+    "word": "quote",
+    "frequency": 2
+  },
+  {
+    "word": "one",
+    "frequency": 8
+  },
+  {
+    "word": "course",
+    "frequency": 1
+  },
+  {
+    "word": "providing",
+    "frequency": 1
+  },
+  {
+    "word": "with",
+    "frequency": 22
+  },
+  {
+    "word": "also",
+    "frequency": 6
+  },
+  {
+    "word": "register",
+    "frequency": 1
+  },
+  {
+    "word": "provide",
+    "frequency": 8
+  },
+  {
+    "word": "your",
+    "frequency": 58
+  },
+  {
+    "word": "through",
+    "frequency": 4
+  },
+  {
+    "word": "types",
+    "frequency": 2
+  },
+  {
+    "word": "may",
+    "frequency": 30
+  },
+  {
+    "word": "include",
+    "frequency": 3
+  },
+  {
+    "word": "211",
+    "frequency": 1
+  },
+  {
+    "word": "application",
+    "frequency": 2
+  },
+  {
+    "word": "including",
+    "frequency": 4
+  },
+  {
+    "word": "addresses",
+    "frequency": 4
+  },
+  {
+    "word": "date",
+    "frequency": 1
+  },
+  {
+    "word": "birth",
+    "frequency": 1
+  },
+  {
+    "word": "other",
+    "frequency": 5
+  },
+  {
+    "word": "provided",
+    "frequency": 3
+  },
+  {
+    "word": "212",
+    "frequency": 1
+  },
+  {
+    "word": "help",
+    "frequency": 3
+  },
+  {
+    "word": "carry",
+    "frequency": 4
+  },
+  {
+    "word": "obligations",
+    "frequency": 5
+  },
+  {
+    "word": "under",
+    "frequency": 3
+  },
+  {
+    "word": "contract",
+    "frequency": 7
+  },
+  {
+    "word": "place",
+    "frequency": 5
+  },
+  {
+    "word": "between",
+    "frequency": 4
+  },
+  {
+    "word": "213",
+    "frequency": 1
+  },
+  {
+    "word": "relating",
+    "frequency": 3
+  },
+  {
+    "word": "make",
+    "frequency": 10
+  },
+  {
+    "word": "214",
+    "frequency": 1
+  },
+  {
+    "word": "apps",
+    "frequency": 1
+  },
+  {
+    "word": "portals",
+    "frequency": 1
+  },
+  {
+    "word": "22",
+    "frequency": 1
+  },
+  {
+    "word": "use",
+    "frequency": 11
+  },
+  {
+    "word": "share",
+    "frequency": 2
+  },
+  {
+    "word": "third",
+    "frequency": 5
+  },
+  {
+    "word": "parties",
+    "frequency": 2
+  },
+  {
+    "word": "acting",
+    "frequency": 1
+  },
+  {
+    "word": "on",
+    "frequency": 10
+  },
+  {
+    "word": "behalf",
+    "frequency": 1
+  },
+  {
+    "word": "following",
+    "frequency": 2
+  },
+  {
+    "word": "purposes",
+    "frequency": 11
+  },
+  {
+    "word": "221",
+    "frequency": 1
+  },
+  {
+    "word": "analyse",
+    "frequency": 1
+  },
+  {
+    "word": "needs",
+    "frequency": 1
+  },
+  {
+    "word": "222",
+    "frequency": 1
+  },
+  {
+    "word": "give",
+    "frequency": 1
+  },
+  {
+    "word": "estimate",
+    "frequency": 1
+  },
+  {
+    "word": "223",
+    "frequency": 1
+  },
+  {
+    "word": "administer",
+    "frequency": 2
+  },
+  {
+    "word": "224",
+    "frequency": 1
+  },
+  {
+    "word": "assess",
+    "frequency": 4
+  },
+  {
+    "word": "adjust",
+    "frequency": 2
+  },
+  {
+    "word": "225",
+    "frequency": 1
+  },
+  {
+    "word": "respond",
+    "frequency": 3
+  },
+  {
+    "word": "complaint",
+    "frequency": 5
+  },
+  {
+    "word": "might",
+    "frequency": 2
+  },
+  {
+    "word": "226",
+    "frequency": 1
+  },
+  {
+    "word": "ensure",
+    "frequency": 2
+  },
+  {
+    "word": "account",
+    "frequency": 2
+  },
+  {
+    "word": "preventing",
+    "frequency": 1
+  },
+  {
+    "word": "detecting",
+    "frequency": 1
+  },
+  {
+    "word": "fraud",
+    "frequency": 2
+  },
+  {
+    "word": "abuses",
+    "frequency": 2
+  },
+  {
+    "word": "example",
+    "frequency": 6
+  },
+  {
+    "word": "requesting",
+    "frequency": 1
+  },
+  {
+    "word": "verification",
+    "frequency": 2
+  },
+  {
+    "word": "order",
+    "frequency": 4
+  },
+  {
+    "word": "reset",
+    "frequency": 1
+  },
+  {
+    "word": "password",
+    "frequency": 1
+  },
+  {
+    "word": "23",
+    "frequency": 1
+  },
+  {
+    "word": "certain",
+    "frequency": 4
+  },
+  {
+    "word": "circumstances",
+    "frequency": 5
+  },
+  {
+    "word": "need",
+    "frequency": 5
+  },
+  {
+    "word": "sensitive",
+    "frequency": 2
+  },
+  {
+    "word": "which",
+    "frequency": 13
+  },
+  {
+    "word": "231",
+    "frequency": 1
+  },
+  {
+    "word": "physical",
+    "frequency": 3
+  },
+  {
+    "word": "mental",
+    "frequency": 3
+  },
+  {
+    "word": "health",
+    "frequency": 3
+  },
+  {
+    "word": "condition",
+    "frequency": 3
+  },
+  {
+    "word": "members",
+    "frequency": 2
+  },
+  {
+    "word": "family",
+    "frequency": 2
+  },
+  {
+    "word": "employees",
+    "frequency": 2
+  },
+  {
+    "word": "232",
+    "frequency": 1
+  },
+  {
+    "word": "criminal",
+    "frequency": 2
+  },
+  {
+    "word": "offence",
+    "frequency": 2
+  },
+  {
+    "word": "alleged",
+    "frequency": 1
+  },
+  {
+    "word": "committed",
+    "frequency": 1
+  },
+  {
+    "word": "24",
+    "frequency": 1
+  },
+  {
+    "word": "only",
+    "frequency": 3
+  },
+  {
+    "word": "such",
+    "frequency": 6
+  },
+  {
+    "word": "241",
+    "frequency": 1
+  },
+  {
+    "word": "242",
+    "frequency": 1
+  },
+  {
+    "word": "243",
+    "frequency": 1
+  },
+  {
+    "word": "25",
+    "frequency": 1
+  },
+  {
+    "word": "nonpersonal",
+    "frequency": 5
+  },
+  {
+    "word": "ie",
+    "frequency": 2
+  },
+  {
+    "word": "that",
+    "frequency": 18
+  },
+  {
+    "word": "has",
+    "frequency": 1
+  },
+  {
+    "word": "been",
+    "frequency": 2
+  },
+  {
+    "word": "sufficiently",
+    "frequency": 1
+  },
+  {
+    "word": "anonymised",
+    "frequency": 2
+  },
+  {
+    "word": "aggregated",
+    "frequency": 1
+  },
+  {
+    "word": "cannot",
+    "frequency": 3
+  },
+  {
+    "word": "be",
+    "frequency": 11
+  },
+  {
+    "word": "identified",
+    "frequency": 1
+  },
+  {
+    "word": "directly",
+    "frequency": 2
+  },
+  {
+    "word": "indirectly",
+    "frequency": 1
+  },
+  {
+    "word": "it",
+    "frequency": 2
+  },
+  {
+    "word": "further",
+    "frequency": 2
+  },
+  {
+    "word": "is",
+    "frequency": 12
+  },
+  {
+    "word": "included",
+    "frequency": 1
+  },
+  {
+    "word": "paragraph",
+    "frequency": 1
+  },
+  {
+    "word": "9",
+    "frequency": 2
+  },
+  {
+    "word": "below",
+    "frequency": 1
+  },
+  {
+    "word": "3",
+    "frequency": 1
+  },
+  {
+    "word": "marketing",
+    "frequency": 4
+  },
+  {
+    "word": "31",
+    "frequency": 1
+  },
+  {
+    "word": "where",
+    "frequency": 11
+  },
+  {
+    "word": "consented",
+    "frequency": 3
+  },
+  {
+    "word": "using",
+    "frequency": 5
+  },
+  {
+    "word": "follows",
+    "frequency": 1
+  },
+  {
+    "word": "311",
+    "frequency": 1
+  },
+  {
+    "word": "request",
+    "frequency": 8
+  },
+  {
+    "word": "feel",
+    "frequency": 1
+  },
+  {
+    "word": "interest",
+    "frequency": 2
+  },
+  {
+    "word": "312",
+    "frequency": 1
+  },
+  {
+    "word": "market",
+    "frequency": 1
+  },
+  {
+    "word": "research",
+    "frequency": 1
+  },
+  {
+    "word": "ask",
+    "frequency": 1
+  },
+  {
+    "word": "feedback",
+    "frequency": 1
+  },
+  {
+    "word": "32",
+    "frequency": 1
+  },
+  {
+    "word": "time",
+    "frequency": 9
+  },
+  {
+    "word": "after",
+    "frequency": 1
+  },
+  {
+    "word": "wish",
+    "frequency": 2
+  },
+  {
+    "word": "stop",
+    "frequency": 2
+  },
+  {
+    "word": "these",
+    "frequency": 7
+  },
+  {
+    "word": "email",
+    "frequency": 1
+  },
+  {
+    "word": "optoutcfcunderwritingcom",
+    "frequency": 1
+  },
+  {
+    "word": "4",
+    "frequency": 1
+  },
+  {
+    "word": "grounds",
+    "frequency": 3
+  },
+  {
+    "word": "processing",
+    "frequency": 10
+  },
+  {
+    "word": "41",
+    "frequency": 1
+  },
+  {
+    "word": "lawfully",
+    "frequency": 1
+  },
+  {
+    "word": "rely",
+    "frequency": 2
+  },
+  {
+    "word": "valid",
+    "frequency": 2
+  },
+  {
+    "word": "legal",
+    "frequency": 9
+  },
+  {
+    "word": "primary",
+    "frequency": 1
+  },
+  {
+    "word": "ground",
+    "frequency": 2
+  },
+  {
+    "word": "fulfil",
+    "frequency": 1
+  },
+  {
+    "word": "take",
+    "frequency": 2
+  },
+  {
+    "word": "steps",
+    "frequency": 1
+  },
+  {
+    "word": "prior",
+    "frequency": 1
+  },
+  {
+    "word": "entering",
+    "frequency": 1
+  },
+  {
+    "word": "however",
+    "frequency": 2
+  },
+  {
+    "word": "there",
+    "frequency": 4
+  },
+  {
+    "word": "411",
+    "frequency": 1
+  },
+  {
+    "word": "consent",
+    "frequency": 6
+  },
+  {
+    "word": "particular",
+    "frequency": 2
+  },
+  {
+    "word": "activities",
+    "frequency": 1
+  },
+  {
+    "word": "412",
+    "frequency": 1
+  },
+  {
+    "word": "legitimate",
+    "frequency": 4
+  },
+  {
+    "word": "interests",
+    "frequency": 3
+  },
+  {
+    "word": "except",
+    "frequency": 1
+  },
+  {
+    "word": "fundamental",
+    "frequency": 1
+  },
+  {
+    "word": "rights",
+    "frequency": 5
+  },
+  {
+    "word": "override",
+    "frequency": 1
+  },
+  {
+    "word": "within",
+    "frequency": 2
+  },
+  {
+    "word": "prevent",
+    "frequency": 1
+  },
+  {
+    "word": "detect",
+    "frequency": 1
+  },
+  {
+    "word": "413",
+    "frequency": 1
+  },
+  {
+    "word": "compliance",
+    "frequency": 1
+  },
+  {
+    "word": "obligation",
+    "frequency": 2
+  },
+  {
+    "word": "subject",
+    "frequency": 5
+  },
+  {
+    "word": "regulatory",
+    "frequency": 2
+  },
+  {
+    "word": "duty",
+    "frequency": 1
+  },
+  {
+    "word": "investigate",
+    "frequency": 1
+  },
+  {
+    "word": "complaints",
+    "frequency": 2
+  },
+  {
+    "word": "against",
+    "frequency": 2
+  },
+  {
+    "word": "part",
+    "frequency": 1
+  },
+  {
+    "word": "investigation",
+    "frequency": 1
+  },
+  {
+    "word": "5",
+    "frequency": 1
+  },
+  {
+    "word": "disclosure",
+    "frequency": 3
+  },
+  {
+    "word": "51",
+    "frequency": 1
+  },
+  {
+    "word": "disclose",
+    "frequency": 2
+  },
+  {
+    "word": "compelled",
+    "frequency": 1
+  },
+  {
+    "word": "accordance",
+    "frequency": 3
+  },
+  {
+    "word": "applicable",
+    "frequency": 6
+  },
+  {
+    "word": "law",
+    "frequency": 9
+  },
+  {
+    "word": "listed",
+    "frequency": 1
+  },
+  {
+    "word": "above",
+    "frequency": 2
+  },
+  {
+    "word": "scenarios",
+    "frequency": 1
+  },
+  {
+    "word": "511",
+    "frequency": 1
+  },
+  {
+    "word": "branches",
+    "frequency": 1
+  },
+  {
+    "word": "associated",
+    "frequency": 1
+  },
+  {
+    "word": "offices",
+    "frequency": 1
+  },
+  {
+    "word": "512",
+    "frequency": 1
+  },
+  {
+    "word": "outsourced",
+    "frequency": 2
+  },
+  {
+    "word": "service",
+    "frequency": 5
+  },
+  {
+    "word": "suppliers",
+    "frequency": 1
+  },
+  {
+    "word": "facilitate",
+    "frequency": 2
+  },
+  {
+    "word": "provision",
+    "frequency": 2
+  },
+  {
+    "word": "centre",
+    "frequency": 1
+  },
+  {
+    "word": "provider",
+    "frequency": 2
+  },
+  {
+    "word": "safe",
+    "frequency": 1
+  },
+  {
+    "word": "keeping",
+    "frequency": 2
+  },
+  {
+    "word": "webhosting",
+    "frequency": 1
+  },
+  {
+    "word": "collected",
+    "frequency": 1
+  },
+  {
+    "word": "identity",
+    "frequency": 3
+  },
+  {
+    "word": "partners",
+    "frequency": 1
+  },
+  {
+    "word": "verify",
+    "frequency": 1
+  },
+  {
+    "word": "public",
+    "frequency": 2
+  },
+  {
+    "word": "databases",
+    "frequency": 2
+  },
+  {
+    "word": "513",
+    "frequency": 1
+  },
+  {
+    "word": "party",
+    "frequency": 3
+  },
+  {
+    "word": "consultants",
+    "frequency": 1
+  },
+  {
+    "word": "protect",
+    "frequency": 2
+  },
+  {
+    "word": "integrity",
+    "frequency": 1
+  },
+  {
+    "word": "systems",
+    "frequency": 1
+  },
+  {
+    "word": "continuity",
+    "frequency": 1
+  },
+  {
+    "word": "reasons",
+    "frequency": 1
+  },
+  {
+    "word": "514",
+    "frequency": 1
+  },
+  {
+    "word": "carriers",
+    "frequency": 1
+  },
+  {
+    "word": "andor",
+    "frequency": 2
+  },
+  {
+    "word": "reinsurers",
+    "frequency": 1
+  },
+  {
+    "word": "515",
+    "frequency": 1
+  },
+  {
+    "word": "another",
+    "frequency": 1
+  },
+  {
+    "word": "entity",
+    "frequency": 1
+  },
+  {
+    "word": "temporary",
+    "frequency": 1
+  },
+  {
+    "word": "permanent",
+    "frequency": 1
+  },
+  {
+    "word": "basis",
+    "frequency": 1
+  },
+  {
+    "word": "joint",
+    "frequency": 1
+  },
+  {
+    "word": "venture",
+    "frequency": 1
+  },
+  {
+    "word": "collaboration",
+    "frequency": 1
+  },
+  {
+    "word": "financing",
+    "frequency": 1
+  },
+  {
+    "word": "sale",
+    "frequency": 2
+  },
+  {
+    "word": "merger",
+    "frequency": 2
+  },
+  {
+    "word": "reorganisation",
+    "frequency": 1
+  },
+  {
+    "word": "change",
+    "frequency": 1
+  },
+  {
+    "word": "form",
+    "frequency": 5
+  },
+  {
+    "word": "dissolution",
+    "frequency": 1
+  },
+  {
+    "word": "similar",
+    "frequency": 1
+  },
+  {
+    "word": "event",
+    "frequency": 1
+  },
+  {
+    "word": "permanently",
+    "frequency": 1
+  },
+  {
+    "word": "transferred",
+    "frequency": 2
+  },
+  {
+    "word": "successor",
+    "frequency": 1
+  },
+  {
+    "word": "516",
+    "frequency": 1
+  },
+  {
+    "word": "advisors",
+    "frequency": 1
+  },
+  {
+    "word": "who",
+    "frequency": 1
+  },
+  {
+    "word": "manage",
+    "frequency": 1
+  },
+  {
+    "word": "litigate",
+    "frequency": 1
+  },
+  {
+    "word": "517",
+    "frequency": 1
+  },
+  {
+    "word": "authorities",
+    "frequency": 1
+  },
+  {
+    "word": "required",
+    "frequency": 4
+  },
+  {
+    "word": "so",
+    "frequency": 7
+  },
+  {
+    "word": "518",
+    "frequency": 1
+  },
+  {
+    "word": "6",
+    "frequency": 1
+  },
+  {
+    "word": "international",
+    "frequency": 1
+  },
+  {
+    "word": "transfer",
+    "frequency": 2
+  },
+  {
+    "word": "61",
+    "frequency": 1
+  },
+  {
+    "word": "countries",
+    "frequency": 1
+  },
+  {
+    "word": "outside",
+    "frequency": 1
+  },
+  {
+    "word": "set",
+    "frequency": 1
+  },
+  {
+    "word": "throughout",
+    "frequency": 1
+  },
+  {
+    "word": "group",
+    "frequency": 1
+  },
+  {
+    "word": "located",
+    "frequency": 1
+  },
+  {
+    "word": "abroad",
+    "frequency": 1
+  },
+  {
+    "word": "adequately",
+    "frequency": 1
+  },
+  {
+    "word": "protected",
+    "frequency": 1
+  },
+  {
+    "word": "appropriate",
+    "frequency": 1
+  },
+  {
+    "word": "technical",
+    "frequency": 1
+  },
+  {
+    "word": "organisation",
+    "frequency": 1
+  },
+  {
+    "word": "contractual",
+    "frequency": 1
+  },
+  {
+    "word": "lawful",
+    "frequency": 3
+  },
+  {
+    "word": "means",
+    "frequency": 1
+  },
+  {
+    "word": "copy",
+    "frequency": 1
+  },
+  {
+    "word": "safeguards",
+    "frequency": 1
+  },
+  {
+    "word": "put",
+    "frequency": 1
+  },
+  {
+    "word": "7",
+    "frequency": 1
+  },
+  {
+    "word": "retention",
+    "frequency": 2
+  },
+  {
+    "word": "71",
+    "frequency": 1
+  },
+  {
+    "word": "previously",
+    "frequency": 1
+  },
+  {
+    "word": "ours",
+    "frequency": 1
+  },
+  {
+    "word": "then",
+    "frequency": 1
+  },
+  {
+    "word": "continue",
+    "frequency": 2
+  },
+  {
+    "word": "hold",
+    "frequency": 3
+  },
+  {
+    "word": "purpose",
+    "frequency": 1
+  },
+  {
+    "word": "continuing",
+    "frequency": 1
+  },
+  {
+    "word": "connection",
+    "frequency": 1
+  },
+  {
+    "word": "duration",
+    "frequency": 1
+  },
+  {
+    "word": "reasonable",
+    "frequency": 1
+  },
+  {
+    "word": "period",
+    "frequency": 1
+  },
+  {
+    "word": "afterwards",
+    "frequency": 1
+  },
+  {
+    "word": "72",
+    "frequency": 1
+  },
+  {
+    "word": "keep",
+    "frequency": 4
+  },
+  {
+    "word": "no",
+    "frequency": 3
+  },
+  {
+    "word": "longer",
+    "frequency": 1
+  },
+  {
+    "word": "refer",
+    "frequency": 1
+  },
+  {
+    "word": "statistical",
+    "frequency": 1
+  },
+  {
+    "word": "without",
+    "frequency": 1
+  },
+  {
+    "word": "limits",
+    "frequency": 1
+  },
+  {
+    "word": "extent",
+    "frequency": 1
+  },
+  {
+    "word": "doing",
+    "frequency": 2
+  },
+  {
+    "word": "8",
+    "frequency": 1
+  },
+  {
+    "word": "81",
+    "frequency": 1
+  },
+  {
+    "word": "provides",
+    "frequency": 1
+  },
+  {
+    "word": "individuals",
+    "frequency": 2
+  },
+  {
+    "word": "numerous",
+    "frequency": 1
+  },
+  {
+    "word": "right",
+    "frequency": 9
+  },
+  {
+    "word": "rectify",
+    "frequency": 2
+  },
+  {
+    "word": "erase",
+    "frequency": 2
+  },
+  {
+    "word": "restrict",
+    "frequency": 1
+  },
+  {
+    "word": "transport",
+    "frequency": 1
+  },
+  {
+    "word": "object",
+    "frequency": 2
+  },
+  {
+    "word": "their",
+    "frequency": 3
+  },
+  {
+    "word": "lodge",
+    "frequency": 2
+  },
+  {
+    "word": "relevant",
+    "frequency": 2
+  },
+  {
+    "word": "authority",
+    "frequency": 3
+  },
+  {
+    "word": "they",
+    "frequency": 4
+  },
+  {
+    "word": "believe",
+    "frequency": 1
+  },
+  {
+    "word": "not",
+    "frequency": 6
+  },
+  {
+    "word": "being",
+    "frequency": 2
+  },
+  {
+    "word": "processed",
+    "frequency": 1
+  },
+  {
+    "word": "811",
+    "frequency": 1
+  },
+  {
+    "word": "sar",
+    "frequency": 3
+  },
+  {
+    "word": "controller",
+    "frequency": 1
+  },
+  {
+    "word": "permitted",
+    "frequency": 3
+  },
+  {
+    "word": "copies",
+    "frequency": 2
+  },
+  {
+    "word": "would",
+    "frequency": 2
+  },
+  {
+    "word": "like",
+    "frequency": 2
+  },
+  {
+    "word": "writing",
+    "frequency": 1
+  },
+  {
+    "word": "whose",
+    "frequency": 1
+  },
+  {
+    "word": "details",
+    "frequency": 1
+  },
+  {
+    "word": "should",
+    "frequency": 1
+  },
+  {
+    "word": "clear",
+    "frequency": 1
+  },
+  {
+    "word": "submit",
+    "frequency": 1
+  },
+  {
+    "word": "proof",
+    "frequency": 1
+  },
+  {
+    "word": "fee",
+    "frequency": 1
+  },
+  {
+    "word": "812",
+    "frequency": 1
+  },
+  {
+    "word": "rectification",
+    "frequency": 1
+  },
+  {
+    "word": "inaccurate",
+    "frequency": 1
+  },
+  {
+    "word": "complete",
+    "frequency": 1
+  },
+  {
+    "word": "incomplete",
+    "frequency": 1
+  },
+  {
+    "word": "813",
+    "frequency": 1
+  },
+  {
+    "word": "withdraw",
+    "frequency": 3
+  },
+  {
+    "word": "withdrawal",
+    "frequency": 1
+  },
+  {
+    "word": "affect",
+    "frequency": 1
+  },
+  {
+    "word": "lawfulness",
+    "frequency": 1
+  },
+  {
+    "word": "based",
+    "frequency": 1
+  },
+  {
+    "word": "previous",
+    "frequency": 1
+  },
+  {
+    "word": "note",
+    "frequency": 2
+  },
+  {
+    "word": "able",
+    "frequency": 1
+  },
+  {
+    "word": "benefit",
+    "frequency": 1
+  },
+  {
+    "word": "features",
+    "frequency": 1
+  },
+  {
+    "word": "essential",
+    "frequency": 1
+  },
+  {
+    "word": "814",
+    "frequency": 1
+  },
+  {
+    "word": "815",
+    "frequency": 1
+  },
+  {
+    "word": "erasure",
+    "frequency": 1
+  },
+  {
+    "word": "comply",
+    "frequency": 3
+  },
+  {
+    "word": "unless",
+    "frequency": 1
+  },
+  {
+    "word": "reason",
+    "frequency": 1
+  },
+  {
+    "word": "overriding",
+    "frequency": 1
+  },
+  {
+    "word": "necessary",
+    "frequency": 1
+  },
+  {
+    "word": "816",
+    "frequency": 1
+  },
+  {
+    "word": "supervisory",
+    "frequency": 2
+  },
+  {
+    "word": "suggest",
+    "frequency": 1
+  },
+  {
+    "word": "relation",
+    "frequency": 1
+  },
+  {
+    "word": "commissioners",
+    "frequency": 1
+  },
+  {
+    "word": "office",
+    "frequency": 1
+  },
+  {
+    "word": "united",
+    "frequency": 1
+  },
+  {
+    "word": "kingdom",
+    "frequency": 1
+  },
+  {
+    "word": "visit",
+    "frequency": 4
+  },
+  {
+    "word": "ico",
+    "frequency": 1
+  },
+  {
+    "word": "instructions",
+    "frequency": 1
+  },
+  {
+    "word": "91",
+    "frequency": 1
+  },
+  {
+    "word": "911",
+    "frequency": 1
+  },
+  {
+    "word": "internet",
+    "frequency": 2
+  },
+  {
+    "word": "protocol",
+    "frequency": 1
+  },
+  {
+    "word": "ip",
+    "frequency": 4
+  },
+  {
+    "word": "site",
+    "frequency": 5
+  },
+  {
+    "word": "log",
+    "frequency": 1
+  },
+  {
+    "word": "address",
+    "frequency": 2
+  },
+  {
+    "word": "unique",
+    "frequency": 1
+  },
+  {
+    "word": "identifies",
+    "frequency": 1
+  },
+  {
+    "word": "computer",
+    "frequency": 2
+  },
+  {
+    "word": "broad",
+    "frequency": 1
+  },
+  {
+    "word": "geographic",
+    "frequency": 1
+  },
+  {
+    "word": "visitor",
+    "frequency": 2
+  },
+  {
+    "word": "optimise",
+    "frequency": 1
+  },
+  {
+    "word": "link",
+    "frequency": 1
+  },
+  {
+    "word": "personally",
+    "frequency": 1
+  },
+  {
+    "word": "identifiable",
+    "frequency": 1
+  },
+  {
+    "word": "912",
+    "frequency": 1
+  },
+  {
+    "word": "cookies",
+    "frequency": 7
+  },
+  {
+    "word": "small",
+    "frequency": 1
+  },
+  {
+    "word": "text",
+    "frequency": 1
+  },
+  {
+    "word": "files",
+    "frequency": 2
+  },
+  {
+    "word": "placed",
+    "frequency": 2
+  },
+  {
+    "word": "websites",
+    "frequency": 5
+  },
+  {
+    "word": "widely",
+    "frequency": 1
+  },
+  {
+    "word": "used",
+    "frequency": 3
+  },
+  {
+    "word": "works",
+    "frequency": 1
+  },
+  {
+    "word": "work",
+    "frequency": 2
+  },
+  {
+    "word": "efficiently",
+    "frequency": 1
+  },
+  {
+    "word": "well",
+    "frequency": 1
+  },
+  {
+    "word": "owners",
+    "frequency": 1
+  },
+  {
+    "word": "delete",
+    "frequency": 1
+  },
+  {
+    "word": "block",
+    "frequency": 1
+  },
+  {
+    "word": "but",
+    "frequency": 1
+  },
+  {
+    "word": "choose",
+    "frequency": 1
+  },
+  {
+    "word": "parts",
+    "frequency": 2
+  },
+  {
+    "word": "913",
+    "frequency": 1
+  },
+  {
+    "word": "session",
+    "frequency": 3
+  },
+  {
+    "word": "sections",
+    "frequency": 1
+  },
+  {
+    "word": "improve",
+    "frequency": 3
+  },
+  {
+    "word": "assist",
+    "frequency": 1
+  },
+  {
+    "word": "navigation",
+    "frequency": 1
+  },
+  {
+    "word": "deliver",
+    "frequency": 1
+  },
+  {
+    "word": "better",
+    "frequency": 1
+  },
+  {
+    "word": "personalised",
+    "frequency": 1
+  },
+  {
+    "word": "cookie",
+    "frequency": 1
+  },
+  {
+    "word": "specifically",
+    "frequency": 1
+  },
+  {
+    "word": "enable",
+    "frequency": 1
+  },
+  {
+    "word": "track",
+    "frequency": 1
+  },
+  {
+    "word": "movement",
+    "frequency": 1
+  },
+  {
+    "word": "page",
+    "frequency": 4
+  },
+  {
+    "word": "dont",
+    "frequency": 1
+  },
+  {
+    "word": "asked",
+    "frequency": 1
+  },
+  {
+    "word": "same",
+    "frequency": 1
+  },
+  {
+    "word": "each",
+    "frequency": 2
+  },
+  {
+    "word": "navigate",
+    "frequency": 1
+  },
+  {
+    "word": "allow",
+    "frequency": 1
+  },
+  {
+    "word": "recognise",
+    "frequency": 1
+  },
+  {
+    "word": "changes",
+    "frequency": 1
+  },
+  {
+    "word": "914",
+    "frequency": 1
+  },
+  {
+    "word": "google",
+    "frequency": 2
+  },
+  {
+    "word": "analytics",
+    "frequency": 1
+  },
+  {
+    "word": "compile",
+    "frequency": 1
+  },
+  {
+    "word": "reports",
+    "frequency": 1
+  },
+  {
+    "word": "anonymous",
+    "frequency": 1
+  },
+  {
+    "word": "come",
+    "frequency": 1
+  },
+  {
+    "word": "pages",
+    "frequency": 1
+  },
+  {
+    "word": "googles",
+    "frequency": 2
+  },
+  {
+    "word": "click",
+    "frequency": 1
+  },
+  {
+    "word": "915",
+    "frequency": 1
+  },
+  {
+    "word": "recaptcha",
+    "frequency": 3
+  },
+  {
+    "word": "uses",
+    "frequency": 2
+  },
+  {
+    "word": "collects",
+    "frequency": 1
+  },
+  {
+    "word": "advanced",
+    "frequency": 1
+  },
+  {
+    "word": "risk",
+    "frequency": 1
+  },
+  {
+    "word": "analysis",
+    "frequency": 1
+  },
+  {
+    "word": "engine",
+    "frequency": 1
+  },
+  {
+    "word": "adaptive",
+    "frequency": 1
+  },
+  {
+    "word": "challenges",
+    "frequency": 1
+  },
+  {
+    "word": "malicious",
+    "frequency": 1
+  },
+  {
+    "word": "software",
+    "frequency": 1
+  },
+  {
+    "word": "engaging",
+    "frequency": 1
+  },
+  {
+    "word": "program",
+    "frequency": 1
+  },
+  {
+    "word": "its",
+    "frequency": 1
+  },
+  {
+    "word": "own",
+    "frequency": 2
+  },
+  {
+    "word": "encourage",
+    "frequency": 1
+  },
+  {
+    "word": "review",
+    "frequency": 1
+  },
+  {
+    "word": "before",
+    "frequency": 2
+  },
+  {
+    "word": "916",
+    "frequency": 1
+  },
+  {
+    "word": "surveys",
+    "frequency": 2
+  },
+  {
+    "word": "invite",
+    "frequency": 1
+  },
+  {
+    "word": "participate",
+    "frequency": 1
+  },
+  {
+    "word": "survey",
+    "frequency": 1
+  },
+  {
+    "word": "related",
+    "frequency": 1
+  },
+  {
+    "word": "participation",
+    "frequency": 1
+  },
+  {
+    "word": "optional",
+    "frequency": 1
+  },
+  {
+    "word": "offer",
+    "frequency": 1
+  },
+  {
+    "word": "typeform",
+    "frequency": 1
+  },
+  {
+    "word": "10",
+    "frequency": 1
+  },
+  {
+    "word": "linked",
+    "frequency": 2
+  },
+  {
+    "word": "follow",
+    "frequency": 1
+  },
+  {
+    "word": "cover",
+    "frequency": 1
+  },
+  {
+    "word": "umbrella",
+    "frequency": 1
+  },
+  {
+    "word": "why",
+    "frequency": 1
+  },
+  {
+    "word": "europe",
+    "frequency": 1
+  },
+  {
+    "word": "strategic",
+    "frequency": 1
+  },
+  {
+    "word": "report",
+    "frequency": 2
+  },
+  {
+    "word": "gender",
+    "frequency": 1
+  },
+  {
+    "word": "pay",
+    "frequency": 1
+  },
+  {
+    "word": "gap",
+    "frequency": 1
+  },
+  {
+    "word": "procedure",
+    "frequency": 1
+  },
+  {
+    "word": "modern",
+    "frequency": 1
+  },
+  {
+    "word": "slavery",
+    "frequency": 1
+  },
+  {
+    "word": "statement",
+    "frequency": 1
+  },
+  {
+    "word": "terms",
+    "frequency": 1
+  },
+  {
+    "word": "sitemap",
+    "frequency": 1
+  },
+  {
+    "word": "2023",
+    "frequency": 1
+  },
+  {
+    "word": "ltd",
+    "frequency": 1
+  },
+  {
+    "word": "trade",
+    "frequency": 1
+  },
+  {
+    "word": "antigua",
+    "frequency": 2
+  },
+  {
+    "word": "argentina",
+    "frequency": 2
+  },
+  {
+    "word": "armenia",
+    "frequency": 2
+  },
+  {
+    "word": "austria",
+    "frequency": 2
+  },
+  {
+    "word": "azerbaijan",
+    "frequency": 2
+  },
+  {
+    "word": "bahamas",
+    "frequency": 2
+  },
+  {
+    "word": "bahrain",
+    "frequency": 2
+  },
+  {
+    "word": "bangladesh",
+    "frequency": 2
+  },
+  {
+    "word": "barbados",
+    "frequency": 2
+  },
+  {
+    "word": "belgium",
+    "frequency": 2
+  },
+  {
+    "word": "bermuda",
+    "frequency": 2
+  },
+  {
+    "word": "brazil",
+    "frequency": 2
+  },
+  {
+    "word": "british",
+    "frequency": 2
+  },
+  {
+    "word": "virgin",
+    "frequency": 2
+  },
+  {
+    "word": "islands",
+    "frequency": 6
+  },
+  {
+    "word": "bulgaria",
+    "frequency": 2
+  },
+  {
+    "word": "cayman",
+    "frequency": 2
+  },
+  {
+    "word": "chile",
+    "frequency": 2
+  },
+  {
+    "word": "china",
+    "frequency": 2
+  },
+  {
+    "word": "costa",
+    "frequency": 2
+  },
+  {
+    "word": "rica",
+    "frequency": 2
+  },
+  {
+    "word": "croatia",
+    "frequency": 2
+  },
+  {
+    "word": "curacao",
+    "frequency": 2
+  },
+  {
+    "word": "cyprus",
+    "frequency": 2
+  },
+  {
+    "word": "czech",
+    "frequency": 2
+  },
+  {
+    "word": "republic",
+    "frequency": 4
+  },
+  {
+    "word": "denmark",
+    "frequency": 2
+  },
+  {
+    "word": "dominican",
+    "frequency": 2
+  },
+  {
+    "word": "ecuador",
+    "frequency": 2
+  },
+  {
+    "word": "egypt",
+    "frequency": 2
+  },
+  {
+    "word": "estonia",
+    "frequency": 2
+  },
+  {
+    "word": "falkland",
+    "frequency": 2
+  },
+  {
+    "word": "finland",
+    "frequency": 2
+  },
+  {
+    "word": "france",
+    "frequency": 2
+  },
+  {
+    "word": "germany",
+    "frequency": 2
+  },
+  {
+    "word": "gibraltar",
+    "frequency": 2
+  },
+  {
+    "word": "greece",
+    "frequency": 2
+  },
+  {
+    "word": "guam",
+    "frequency": 2
+  },
+  {
+    "word": "guernsey",
+    "frequency": 2
+  },
+  {
+    "word": "guyana",
+    "frequency": 2
+  },
+  {
+    "word": "hungary",
+    "frequency": 2
+  },
+  {
+    "word": "iceland",
+    "frequency": 2
+  },
+  {
+    "word": "india",
+    "frequency": 2
+  },
+  {
+    "word": "indonesia",
+    "frequency": 2
+  },
+  {
+    "word": "iraq",
+    "frequency": 2
+  },
+  {
+    "word": "ireland",
+    "frequency": 2
+  },
+  {
+    "word": "isle",
+    "frequency": 2
+  },
+  {
+    "word": "man",
+    "frequency": 2
+  },
+  {
+    "word": "israel",
+    "frequency": 2
+  },
+  {
+    "word": "italy",
+    "frequency": 2
+  },
+  {
+    "word": "jamaica",
+    "frequency": 2
+  },
+  {
+    "word": "japan",
+    "frequency": 2
+  },
+  {
+    "word": "jersey",
+    "frequency": 2
+  },
+  {
+    "word": "jordan",
+    "frequency": 2
+  },
+  {
+    "word": "kenya",
+    "frequency": 2
+  },
+  {
+    "word": "kuwait",
+    "frequency": 2
+  },
+  {
+    "word": "latvia",
+    "frequency": 2
+  },
+  {
+    "word": "lebanon",
+    "frequency": 2
+  },
+  {
+    "word": "liechtenstein",
+    "frequency": 2
+  },
+  {
+    "word": "lithuania",
+    "frequency": 2
+  },
+  {
+    "word": "luxembourg",
+    "frequency": 2
+  },
+  {
+    "word": "macedonia",
+    "frequency": 2
+  },
+  {
+    "word": "malaysia",
+    "frequency": 2
+  },
+  {
+    "word": "maldives",
+    "frequency": 2
+  },
+  {
+    "word": "malta",
+    "frequency": 2
+  },
+  {
+    "word": "mauritius",
+    "frequency": 2
+  },
+  {
+    "word": "mexico",
+    "frequency": 2
+  },
+  {
+    "word": "monaco",
+    "frequency": 2
+  },
+  {
+    "word": "morocco",
+    "frequency": 2
+  },
+  {
+    "word": "myanmar",
+    "frequency": 2
+  },
+  {
+    "word": "netherlands",
+    "frequency": 2
+  },
+  {
+    "word": "zealand",
+    "frequency": 2
+  },
+  {
+    "word": "norway",
+    "frequency": 2
+  },
+  {
+    "word": "oman",
+    "frequency": 2
+  },
+  {
+    "word": "panama",
+    "frequency": 2
+  },
+  {
+    "word": "philippines",
+    "frequency": 2
+  },
+  {
+    "word": "poland",
+    "frequency": 2
+  },
+  {
+    "word": "portugal",
+    "frequency": 2
+  },
+  {
+    "word": "qatar",
+    "frequency": 2
+  },
+  {
+    "word": "romania",
+    "frequency": 2
+  },
+  {
+    "word": "russia",
+    "frequency": 2
+  },
+  {
+    "word": "saudi",
+    "frequency": 2
+  },
+  {
+    "word": "arabia",
+    "frequency": 2
+  },
+  {
+    "word": "singapore",
+    "frequency": 2
+  },
+  {
+    "word": "slovakia",
+    "frequency": 2
+  },
+  {
+    "word": "slovenia",
+    "frequency": 2
+  },
+  {
+    "word": "south",
+    "frequency": 4
+  },
+  {
+    "word": "africa",
+    "frequency": 2
+  },
+  {
+    "word": "korea",
+    "frequency": 2
+  },
+  {
+    "word": "spain",
+    "frequency": 2
+  },
+  {
+    "word": "sri",
+    "frequency": 2
+  },
+  {
+    "word": "lanka",
+    "frequency": 2
+  },
+  {
+    "word": "st",
+    "frequency": 4
+  },
+  {
+    "word": "lucia",
+    "frequency": 2
+  },
+  {
+    "word": "vincent",
+    "frequency": 2
+  },
+  {
+    "word": "grenadines",
+    "frequency": 2
+  },
+  {
+    "word": "sweden",
+    "frequency": 2
+  },
+  {
+    "word": "switzerland",
+    "frequency": 2
+  },
+  {
+    "word": "taiwan",
+    "frequency": 2
+  },
+  {
+    "word": "tajikistan",
+    "frequency": 2
+  },
+  {
+    "word": "thailand",
+    "frequency": 2
+  },
+  {
+    "word": "trinidad",
+    "frequency": 2
+  },
+  {
+    "word": "tobago",
+    "frequency": 2
+  },
+  {
+    "word": "tunisia",
+    "frequency": 2
+  },
+  {
+    "word": "turkey",
+    "frequency": 2
+  },
+  {
+    "word": "turks",
+    "frequency": 2
+  },
+  {
+    "word": "caicos",
+    "frequency": 2
+  },
+  {
+    "word": "uae",
+    "frequency": 2
+  },
+  {
+    "word": "ukraine",
+    "frequency": 2
+  },
+  {
+    "word": "uruguay",
+    "frequency": 2
+  },
+  {
+    "word": "vanuatu",
+    "frequency": 2
+  },
+  {
+    "word": "yes",
+    "frequency": 2
+  },
+  {
+    "word": "submitted",
+    "frequency": 2
+  },
+  {
+    "word": "try",
+    "frequency": 2
+  },
+  {
+    "word": "again",
+    "frequency": 2
+  },
+  {
+    "word": "later",
+    "frequency": 2
+  },
+  {
+    "word": "thank",
+    "frequency": 3
+  },
+  {
+    "word": "lets",
+    "frequency": 1
+  },
+  {
+    "word": "signed",
+    "frequency": 2
+  },
+  {
+    "word": "youve",
+    "frequency": 1
+  },
+  {
+    "word": "successfully",
+    "frequency": 1
+  },
+  {
+    "word": "broker",
+    "frequency": 2
+  },
+  {
+    "word": "newsletter",
+    "frequency": 1
+  },
+  {
+    "word": "receive",
+    "frequency": 1
+  },
+  {
+    "word": "errorsfirstlists",
+    "frequency": 1
+  },
+  {
+    "word": "briefing",
+    "frequency": 1
+  },
+  {
+    "word": "fix",
+    "frequency": 1
+  },
+  {
+    "word": "wont",
+    "frequency": 1
+  },
+  {
+    "word": "anyone",
+    "frequency": 1
+  },
+  {
+    "word": "else",
+    "frequency": 1
+  },
+  {
+    "word": "bombard",
+    "frequency": 1
+  },
+  {
+    "word": "emails",
+    "frequency": 1
+  },
+  {
+    "word": "simply",
+    "frequency": 1
+  },
+  {
+    "word": "want",
+    "frequency": 1
+  },
+  {
+    "word": "loop",
+    "frequency": 1
+  },
+  {
+    "word": "upcoming",
+    "frequency": 1
+  },
+  {
+    "word": "view",
+    "frequency": 1
+  },
+  {
+    "word": "upload",
+    "frequency": 1
+  },
+  {
+    "word": "max",
+    "frequency": 1
+  },
+  {
+    "word": "5mb",
+    "frequency": 1
+  }
+]
